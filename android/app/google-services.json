@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "693637783896",
+    "project_id": "recytec-50b45",
+    "storage_bucket": "recytec-50b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693637783896:android:cd69b6a152ab40866cc52d",
+        "android_client_info": {
+          "package_name": "Recytec.aqp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693637783896-utvpb53nn5cf1pjbfdka10d0rrr3mehu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Recytec.aqp.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "693637783896-tdl0bhlf52tpcgv6a4o9noundphf5euo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe43-NDxadHo9HgBM-bvQtGORAAB6Rq5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693637783896-tdl0bhlf52tpcgv6a4o9noundphf5euo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693637783896-vbu31bgg8cdjfoftbuie90iheitftu5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Recytec.aqp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
